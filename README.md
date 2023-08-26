@@ -33,8 +33,11 @@ Minha paixão por tecnologia e segurança digital é o combustível que impulsio
 #### **Redes Sociais:**
 
 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/eliezer-ferreira-7a052a244/)
+
 **Github:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=333)](https://github.com/Eliezer02)
+
 **Perfil na DIO:** [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/eliezer_augusto_r_ferreira/)
+
 **Email:**
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](eliezer.ferreira@stone.com.br)
 
